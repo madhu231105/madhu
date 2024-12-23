@@ -1,0 +1,10 @@
+.Para1
+{
+    border: 2px solid pink;
+}
+.Para2
+{
+    border: 2px solid blueviolet;
+    position: relative;
+    top:20px;
+}
