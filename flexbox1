@@ -1,0 +1,5 @@
+.container div{
+    background-color: rgb(rgb(0, 204, 255), green, blue);
+    border: 5px solid blueviolet;
+    height: 100px;
+}
