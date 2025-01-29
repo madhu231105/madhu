@@ -9,4 +9,5 @@ for(let key in user){
 const array=[1,2,3,6,5,4]
 for(let value of array){
     console.log(value);
+    
 }
